@@ -1,6 +1,4 @@
-node_modules
-<<<<<<< HEAD
+_site
 .sass-cache
-=======
-bower_components
->>>>>>> master
+node_modules
+.DS_STORE

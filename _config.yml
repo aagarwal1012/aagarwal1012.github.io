@@ -1,0 +1,20 @@
+# Site settings
+title: Ayush Agarwal
+description: Ayush Agarwal's Portfolio
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Ayush Agarwal
+user_title: Android Developer | Programmer
+email: aagarwal9782@gmail.com
+twitter_username: aagarwal9782
+github_username:  aagarwal1012
+gplus_username:  115147319139238316033
+facebook_username: aagarwal1012
+
+# Google-analytics
+google-analytics:
+  id: "UA-117131653-1"
+
+exclude: ['package.json', 'src' , 'node_modules']
