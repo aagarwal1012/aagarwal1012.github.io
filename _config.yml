@@ -18,3 +18,6 @@ google-analytics:
   id: "UA-117131653-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+
+plugins: [jekyll-seo-tag]
