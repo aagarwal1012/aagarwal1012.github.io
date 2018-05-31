@@ -1,6 +1,23 @@
 # Site settings
 title: Ayush Agarwal
+url: "https://ayushagarwal.ml/"
 description: Ayush Agarwal's Portfolio
+social:
+  name: Ayush Agarwal
+  links: 
+    - https://www.facebook.com/aagarwal1012
+    - https://github.com/aagarwal1012
+    - https://plus.google.com/115147319139238316033
+    - https://www.instagram.com/superman_ayush/
+    - https://twitter.com/aagarwal9782
+    - https://www.youtube.com/channel/UCQsnIvnC7zeOhSImDOJmESA
+facebook: 
+  app_id: 100001961887919
+  publisher: 100001961887919
+  admins: 100001961887919
+twitter: 
+  username: aagarwal9782
+author: Ayush Agarwal
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -20,4 +37,5 @@ google-analytics:
 exclude: ['package.json', 'src' , 'node_modules']
 
 
-plugins: [jekyll-seo-tag]
+plugins: 
+  - jekyll-seo-tag
