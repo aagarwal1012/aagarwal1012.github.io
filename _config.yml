@@ -7,9 +7,8 @@ social:
   links: 
     - https://www.facebook.com/aagarwal1012
     - https://github.com/aagarwal1012
-    - https://plus.google.com/115147319139238316033
-    - https://www.instagram.com/superman_ayush/
-    - https://twitter.com/aagarwal9782
+    - https://www.instagram.com/instinct_3_/
+    - https://twitter.com/aagarwal1012
     - https://www.youtube.com/channel/UCQsnIvnC7zeOhSImDOJmESA
     - https://www.linkedin.com/in/aagarwal1012
 facebook: 
@@ -17,7 +16,7 @@ facebook:
   publisher: 100001961887919
   admins: 100001961887919
 twitter: 
-  username: aagarwal9782
+  username: aagarwal1012
 author: Ayush Agarwal
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -26,9 +25,8 @@ author: Ayush Agarwal
 username: Ayush Agarwal
 user_title: Mobile App Developer | Programmer
 email: aagarwal9782@gmail.com
-twitter_username: aagarwal9782
+twitter_username: aagarwal1012
 github_username:  aagarwal1012
-gplus_username:  115147319139238316033
 facebook_username: aagarwal1012
 linkedin_username: aagarwal1012
 
