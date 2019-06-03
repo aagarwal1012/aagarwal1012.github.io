@@ -1,6 +1,6 @@
 # Site settings
 title: Ayush Agarwal
-url: "https://ayushagarwal.ml/"
+url: "https://aagarwal1012.github.io/"
 description: Ayush Agarwal's Portfolio
 social:
   name: Ayush Agarwal
@@ -34,7 +34,7 @@ linkedin_username: aagarwal1012
 
 # Google-analytics
 google-analytics:
-  id: "UA-117131653-1"
+  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
 
